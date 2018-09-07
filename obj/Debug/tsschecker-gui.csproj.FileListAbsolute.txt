@@ -1,0 +1,10 @@
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\obj\Debug\tsschecker-gui.csprojResolveAssemblyReference.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\obj\Debug\tsschecker_gui.Form1.resources
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\obj\Debug\tsschecker_gui.Properties.Resources.resources
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\obj\Debug\tsschecker-gui.csproj.GenerateResource.Cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\obj\Debug\tsschecker-gui.csproj.CoreCompileInputs.cache
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\bin\Debug\tsschecker-gui.exe.config
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\bin\Debug\tsschecker-gui.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\bin\Debug\tsschecker-gui.pdb
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\obj\Debug\tsschecker-gui.exe
+C:\Users\oliver.boudet\Documents\Visual Studio 2017\Projects\tsschecker-gui\tsschecker-gui\obj\Debug\tsschecker-gui.pdb
