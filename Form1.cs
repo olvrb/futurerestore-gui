@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace tsschecker_gui {
@@ -56,11 +49,13 @@ namespace tsschecker_gui {
         }
 
         private void button3_Click(object sender, EventArgs e) {
-            var proc = new Process {
+            Process proc = new Process {
                 StartInfo = new ProcessStartInfo {
                     FileName = "futurerestore.exe",
                     Arguments = "-t " + this.blobFilePath +
-                                " -i " + this.signedIPSWFilePath + 
+                                " -i " + this.signedIPSWFilePath +
+                                "--latest-sep" +
+                                "--latest-baseband" + 
                                 " " + this.restoreToIPSWFilePath,
                     UseShellExecute = false,
                     RedirectStandardOutput = true,
@@ -69,7 +64,7 @@ namespace tsschecker_gui {
             };
             proc.Start();
             while (!proc.StandardOutput.EndOfStream) {
-                richTextBox1.Text += proc.StandardOutput.ReadLine();
+                richTextBox1.Text += proc.StandardOutput.ReadLine() + "\n";
             }
         }
     }
