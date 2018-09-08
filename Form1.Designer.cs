@@ -32,43 +32,43 @@
             // 
             // blobbutton
             // 
-            this.blobbutton.Location = new System.Drawing.Point(236, 10);
+            this.blobbutton.Location = new System.Drawing.Point(220, 8);
             this.blobbutton.Name = "blobbutton";
-            this.blobbutton.Size = new System.Drawing.Size(88, 22);
+            this.blobbutton.Size = new System.Drawing.Size(132, 24);
             this.blobbutton.TabIndex = 0;
-            this.blobbutton.Text = "Select blob file";
+            this.blobbutton.Text = "Select blob file (.SHSH2)";
             this.blobbutton.UseVisualStyleBackColor = true;
-            this.blobbutton.Click += new System.EventHandler(this.button1_Click);
+            this.blobbutton.Click += new System.EventHandler(this.Button1_Click);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(330, 8);
+            this.button1.Location = new System.Drawing.Point(358, 8);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 24);
             this.button1.TabIndex = 1;
             this.button1.Text = "Select signed IPSW file";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.button1.Click += new System.EventHandler(this.Button1_Click_1);
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(462, 8);
+            this.button2.Location = new System.Drawing.Point(490, 8);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(162, 24);
+            this.button2.Size = new System.Drawing.Size(143, 24);
             this.button2.TabIndex = 2;
             this.button2.Text = "Select restore-to IPSW file";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(381, 38);
+            this.button3.Location = new System.Drawing.Point(384, 38);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 3;
             this.button3.Text = "Start";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
             // richTextBox1
             // 
@@ -90,7 +90,8 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.blobbutton);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Futurerestore GUI";
+            this.ShowIcon = false;
             this.ResumeLayout(false);
 
         }
@@ -104,4 +105,3 @@
         private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }
-

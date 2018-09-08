@@ -27,28 +27,28 @@ namespace tsschecker_gui {
             set => restoreToIPSWFilePath = value;
         }
 
-        private void button1_Click(object sender, EventArgs e) {
+        private void Button1_Click(object sender, EventArgs e) {
             OpenFileDialog file = new OpenFileDialog();
             if (file.ShowDialog() == DialogResult.OK) {
                 this.BlobFilePath = file.FileName;
             }
         }
 
-        private void button1_Click_1(object sender, EventArgs e) {
+        private void Button1_Click_1(object sender, EventArgs e) {
             OpenFileDialog file = new OpenFileDialog();
             if (file.ShowDialog() == DialogResult.OK) {
                 this.SignedIPSWFilePath = file.FileName;
             }
         }
 
-        private void button2_Click(object sender, EventArgs e) {
+        private void Button2_Click(object sender, EventArgs e) {
             OpenFileDialog file = new OpenFileDialog();
             if (file.ShowDialog() == DialogResult.OK) {
                 this.RestoreToIPSWFilePath = file.FileName;
             }
         }
 
-        private void button3_Click(object sender, EventArgs e) {
+        private void Button3_Click(object sender, EventArgs e) {
             Process proc = new Process {
                 StartInfo = new ProcessStartInfo {
                     FileName = "futurerestore.exe",
