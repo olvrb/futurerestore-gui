@@ -8,3 +8,13 @@ C:\Users\Robert\Desktop\futurerestore\futurerestore-gui\obj\Debug\tsschecker_gui
 C:\Users\Robert\Desktop\futurerestore\futurerestore-gui\obj\Debug\tsschecker_gui.Properties.Resources.resources
 C:\Users\Robert\Desktop\futurerestore\futurerestore-gui\obj\Debug\tsschecker-gui.csproj.GenerateResource.cache
 C:\Users\Robert\Desktop\futurerestore\futurerestore-gui\obj\Debug\tsschecker-gui.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\bin\Debug\tsschecker-gui.exe.config
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\bin\Debug\tsschecker-gui.exe
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\bin\Debug\tsschecker-gui.pdb
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\obj\Debug\tsschecker-gui.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\obj\Debug\tsschecker_gui.Form1.resources
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\obj\Debug\tsschecker_gui.Properties.Resources.resources
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\obj\Debug\tsschecker-gui.csproj.GenerateResource.cache
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\obj\Debug\tsschecker-gui.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\obj\Debug\tsschecker-gui.exe
+C:\Users\Robert\Desktop\futurerestoreja\futurerestore-gui\obj\Debug\tsschecker-gui.pdb
